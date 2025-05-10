@@ -1,0 +1,20 @@
+.create-comment-page {
+    padding: 20px;
+    
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.create-comment-page h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.error-message {
+    color: #dc3545;
+    background-color: #f8d7da;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    border: 1px solid #f5c6cb;
+}
